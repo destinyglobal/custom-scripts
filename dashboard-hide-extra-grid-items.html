@@ -1,0 +1,43 @@
+<script type="text/javascript">
+
+  $(document).ready(function() {
+
+    // Find any course lists on the page
+    $("#addons-and-coaching-access .grid-wrapper").each(function () {
+      var addonGridItem = $("article.addon-grid-item", this)
+      var addonCount = $(addonGridItem, this).length;
+      var buttonHTML = '<div class="clear" style="width: 100%;margin: -2em auto 2em;text-align: center;"><button href=# class="addon-show-hide closed"  onclick="showHideAddons()">See <span class="more-less">All My Add Ons</span></button></div>';
+      if (Number(addonCount) > 3) {
+        // There are more than 3 so we're going to hide some and add a button to show them
+        $(addonGridItem).slice(3).addClass("extra-addon closed").css({maxHeight: "0"});
+        $(buttonHTML).appendTo(this);
+      } else {
+        // there are less than 3 so we don't need to do anything
+      }
+    });
+  }); 
+  // Here's the function that runs when the button is clicked. 
+  function showHideAddons() {
+  	console.log("button works");
+    var addonGridItem = ".addon-grid-item.extra-addon";
+    // Here's the button we need to update depending on if the category is expanded or not
+    var showHideButton = ('button.addon-show-hide > span.more-less');
+    // first we check to see if the the extra items are hidden
+    if ( $('article.extra-addon').hasClass("closed") ) {
+    	console.log('true');
+      // Items are hidden show we'll show them and change the button text
+      $('article.extra-addon').animate({maxHeight: "500"}).removeClass("closed").addClass("open");
+      $(showHideButton).html("Fewer");
+      $('button.addon-show-hide').removeClass("closed").addClass("open");
+    // Everything is shown so we're going hide the extra items and update the button
+    } else {
+    	console.log("false");
+      $('article.extra-addon').animate({maxHeight: "0"}).removeClass("open").addClass("closed");
+      $(showHideButton).html("All My Add Ons");
+      $('button.addon-show-hide').removeClass("open").addClass("closed");
+    }
+  };
+
+	
+</script>
+
