@@ -1,0 +1,508 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"rep",
+				"replaceLNameString"
+			],
+			[
+				"re",
+				"replaceFNameString"
+			],
+			[
+				"lmts",
+				"lmts_referral_email"
+			],
+			[
+				"on",
+				"onclick"
+			],
+			[
+				"fa",
+				"fa-arrow-circle-right"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"extra",
+				"extra-addon"
+			],
+			[
+				"ld",
+				"ld_course_grid"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"cat",
+				"catName"
+			],
+			[
+				"cor",
+				"courseGridID"
+			],
+			[
+				"get",
+				"getElementsByClassName"
+			],
+			[
+				"course",
+				"courseGridID"
+			],
+			[
+				"cour",
+				"courseGridID"
+			],
+			[
+				"cou",
+				"courseGridID"
+			],
+			[
+				"divID",
+				"divIDString"
+			],
+			[
+				"ex",
+				"extraGridItem"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"u",
+				"updateEventTitles"
+			],
+			[
+				"evnet",
+				"eventTitle"
+			],
+			[
+				"til",
+				"titleParts"
+			],
+			[
+				"Tie",
+				"titleParts"
+			],
+			[
+				"title",
+				"titleParts"
+			],
+			[
+				"event",
+				"eventTitle"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"e",
+				"eventTitle"
+			],
+			[
+				"margin-",
+				"margin-right\tproperty"
+			],
+			[
+				"cf-product-sele",
+				"cf-product-selector-inactive"
+			],
+			[
+				"data",
+				"data-cf-product-template"
+			],
+			[
+				"un",
+				"upcoming-fsts"
+			],
+			[
+				"evn",
+				"eventLocation"
+			],
+			[
+				"es",
+				"esLocation"
+			],
+			[
+				"eve",
+				"eventDate"
+			],
+			[
+				"ev",
+				"eventDate"
+			],
+			[
+				"eent",
+				"eventStartTime"
+			],
+			[
+				"cf-location",
+				"cf-location-more-button"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"survey",
+				"survey_link"
+			],
+			[
+				"sur",
+				"survey_link"
+			],
+			[
+				"cf-",
+				"cf-best-seller-text"
+			],
+			[
+				"cf",
+				"cf-best-seller-text"
+			],
+			[
+				"multi",
+				"cf-multi-bump"
+			],
+			[
+				"pro",
+				"product_url"
+			],
+			[
+				"ta",
+				"table-cell\tdisplay"
+			],
+			[
+				"table",
+				"table-row\tdisplay"
+			],
+			[
+				"text",
+				"text-transform\tproperty"
+			],
+			[
+				"fo",
+				"font-variant\tproperty"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"html",
+				"html_fly"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"git",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"sftp",
+				"Package Control: Satisfy Dependencies"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jholden/Documents/Site/custom-scripts/dashboard-hide-extra-grid-items.html",
+		"/Users/jholden/Documents/Site/custom-scripts/fetch-info-from-url.js",
+		"/Users/jholden/Documents/Site/custom-scripts/clone-name-tags.js",
+		"/Users/jholden/Documents/Site/account-djc/wp-content/themes/dg-membersite/page-live-stream.php",
+		"/Users/jholden/Library/Application Support/Sublime Text 3/Packages/AutoBackups/AutoBackups (OSX).sublime-settings",
+		"/Users/jholden/Documents/Site/ClickFunnels/misc assets/total survey results.js",
+		"/Users/jholden/Documents/Creative/Sites/2001 details.txt",
+		"/Users/jholden/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/DJC",
+		"/Users/jholden/Documents/Site/ClickFunnels/misc assets/swipe script to swap dates from external source.html",
+		"/Users/jholden/Documents/Site/ClickFunnels/misc assets/product select button script.js",
+		"/Users/jholden/Documents/Site/DJC/wp-content/themes/DJC-Theme/page-watch.php",
+		"/Users/jholden/Documents/Site/DJC/wp-content/themes/DJC-Theme/front-page.php",
+		"/Users/jholden/Downloads/Chrome-Passwords.csv",
+		"/Users/jholden/Documents/Site/dg-membersite/scss/custom.scss",
+		"/Users/jholden/Documents/Site/DJC/wp-content/themes/DJC-Theme/function_shortcodes.php",
+		"/Users/jholden/Documents/Site/DJC/wp-content/themes/DJC-Theme/scss/style.scss",
+		"/Users/jholden/Documents/Site/DJC/wp-content/themes/DJC-Theme/template-parts/nav-desktop.php",
+		"/Users/jholden/Documents/Site/DJC/wp-content/themes/DJC-Theme/template-parts/nav.php",
+		"/Users/jholden/Documents/Site/DJC/wp-content/themes/DJC-Theme/page.php",
+		"/Users/jholden/Documents/Site/DJC/wp-content/themes/DJC-Theme/header.php",
+		"/Users/jholden/Documents/Site/DJC/wp-content/themes/DJC-Theme/search.php",
+		"/Users/jholden/Documents/Site/DJC/wp-content/themes/DJC-Theme/header-noNav.php",
+		"/Users/jholden/Documents/Site/DJC/wp-content/themes/DJC-Theme/page-team.php",
+		"/Users/jholden/Documents/Creative/Sites/Sandbox/FSTS.html",
+		"/Users/jholden/Documents/Site/DJC/wp-content/themes/DJC-Theme/fsts page updates for 1902",
+		"/Users/jholden/Documents/Creative/Sites/Good Barber/djc-app.plist",
+		"/Users/jholden/Documents/Creative/FileZilla.xml",
+		"/Users/jholden/Documents/Site/flyer-system",
+		"/Users/jholden/Documents/Site/live-business-training.txt",
+		"/Users/jholden/Documents/Site/quickstart",
+		"/Users/jholden/Documents/Site/webcast-trainging",
+		"/Users/jholden/Documents/Site/time-secrets",
+		"/Users/jholden/Documents/Site/war-on-debt",
+		"/Users/jholden/Documents/Site/gems",
+		"/Users/jholden/Documents/Site/social-media-empire",
+		"/Users/jholden/Documents/Site/instand-customer-goldmine",
+		"/Users/jholden/Documents/Site/p&c-scriptbooks",
+		"/Users/jholden/Documents/Site/p&c-millions",
+		"/Users/jholden/Documents/Site/6in6",
+		"/Users/jholden/Documents/Site/getting-started",
+		"/Users/jholden/Documents/1812 Webinar/BUY-BUTTON.txt",
+		"/Users/jholden/Desktop/staffImport.csv",
+		"/Users/jholden/Downloads/exportUsers-12-12-2018-185637.csv",
+		"/Users/jholden/Documents/Site/DJC/wp-content/themes/DJC-Theme/function_customizer.php",
+		"/Users/jholden/Documents/Site/dg-membersite/functions.php",
+		"/Users/jholden/Documents/Site/Dev-Site/wp-content/themes/DJC-Theme/function_shortcodes.php",
+		"/Users/jholden/Documents/Site/dg-membersite/template-parts/header-dashboard-links.php",
+		"/Users/jholden/Documents/Site/dg-membersite/header.php",
+		"/Users/jholden/Documents/Site/dg-membersite/archive-library.php",
+		"/Users/jholden/Documents/Site/dg-membersite/category.php",
+		"/Users/jholden/Documents/Site/dg-membersite/front-page.php",
+		"/Users/jholden/Documents/Site/dg-membersite/content.php",
+		"/Users/jholden/Documents/Site/Dev-Site/wp-content/themes/DJC-Theme/scss/_vendor.scss",
+		"/Users/jholden/Documents/Site/Dev-Site/wp-content/themes/DJC-Theme/page-firststeps-landing.php",
+		"/Users/jholden/Documents/Site/Dev-Site/wp-content/themes/DJC-Theme/page-event-deets.php",
+		"/private/var/folders/9n/cjz403892qjgbb1c4qqzxydh0000gp/T/fz3temp-2/header.php",
+		"/private/var/folders/9n/cjz403892qjgbb1c4qqzxydh0000gp/T/fz3temp-2/default-filters.php",
+		"/private/var/folders/9n/cjz403892qjgbb1c4qqzxydh0000gp/T/fz3temp-2/general-template.php",
+		"/private/var/folders/9n/cjz403892qjgbb1c4qqzxydh0000gp/T/fz3temp-2/functions.php",
+		"/private/var/folders/9n/cjz403892qjgbb1c4qqzxydh0000gp/T/fz3temp-2/image.php",
+		"/private/var/folders/9n/cjz403892qjgbb1c4qqzxydh0000gp/T/fz3temp-2/index 2.php",
+		"/private/var/folders/9n/cjz403892qjgbb1c4qqzxydh0000gp/T/fz3temp-2/index.php",
+		"/Users/jholden/Documents/Site/Dev-Site/wp-content/themes/dj/header.php",
+		"/Users/jholden/Documents/Site/Dev-Site/wp-content/themes/dj/page.php",
+		"/Users/jholden/Documents/Site/Dev-Site/wp-content/themes/dj/footer.php",
+		"/Users/jholden/Documents/Site/Dev-Site/wp-content/themes/dj/functions.php",
+		"/Users/jholden/Documents/Site/Dev-Site/wp-content/themes/dj/page-container.php",
+		"/Users/jholden/Documents/Site/Dev-Site/wp-content/themes/dj/index.php",
+		"/Users/jholden/Documents/Site/Dev-Site/wp-content/themes/dj/scss/style.scss",
+		"/Users/jholden/Documents/Site/Dev-Site/wp-content/themes/dj/scss/_grid.scss",
+		"/Users/jholden/Documents/Site/Dev-Site/wp-content/themes/dj/scss/_vendor.scss",
+		"/Users/jholden/Documents/Site/Dev-Site/wp-content/themes/DJC-Theme/scss/style.scss",
+		"/Users/jholden/Documents/Site/Dev-Site/wp-content/themes/dj/page-team.php",
+		"/Users/jholden/Documents/Site/Dev-Site/wp-content/themes/dj/function_shortcodes.php",
+		"/Users/jholden/Documents/Site/dg-membersite/scss/_global.scss",
+		"/Users/jholden/Documents/Site/dg-membersite/event-page.php",
+		"/Users/jholden/Documents/Site/dg-membersite/scss/_tab-nav.scss",
+		"/Users/jholden/Documents/Site/dg-membersite/css/custom.css",
+		"/Users/jholden/Desktop/diff/fstw.js",
+		"/Users/jholden/Desktop/diff/cfpt.js",
+		"/Users/jholden/Desktop/Variation_footer_tracking.html",
+		"/Users/jholden/Desktop/control_footer_tracking",
+		"/Users/jholden/Documents/Site/Dev-Site/wp-content/themes/dj/scss/_nav.scss",
+		"/Users/jholden/Documents/Site/Dev-Site/wp-content/themes/dj/assets/navigation.js",
+		"/Users/jholden/Documents/Site/Dev-Site/wp-content/themes/dj/scss/_variables.scss",
+		"/Users/jholden/Documents/Site/Dev-Site/wp-content/themes/dj/scss/_globals.scss",
+		"/Users/jholden/Documents/Site/Dev-Site/wp-content/themes/DJC-Theme/scss/_globals.scss",
+		"/Users/jholden/Documents/Site/Dev-Site/wp-content/themes/DJC-Theme/scss/_grid.scss",
+		"/Users/jholden/Documents/Site/Dev-Site/wp-content/themes/dj/scss/_templates.scss",
+		"/Users/jholden/Documents/Site/Dev-Site/wp-content/themes/dj/scss/style.css",
+		"/Users/jholden/Documents/Site/Dev-Site/wp-content/themes/dj/page-event-deets.php",
+		"/Users/jholden/Documents/Site/Dev-Site/wp-content/themes/dj/assets/tab_nav.js",
+		"/Users/jholden/Desktop/index.php",
+		"/Users/jholden/Downloads/jquery-ui-1.12.1.custom/jquery-ui.structure.css",
+		"/Users/jholden/Documents/Site/Dev-Site/wp-content/themes/dj/JS/tabs.js",
+		"/Users/jholden/Documents/Site/tabs html",
+		"/Users/jholden/Documents/Site/Dev-Site/wp-content/themes/dj/page-firststeps.php",
+		"/Users/jholden/Documents/GitHub/DJC-Theme/function_shortcodes.php",
+		"/Users/jholden/Documents/Site/Dev Site/wp-content/themes/dj/function_shortcodes.php",
+		"/Users/jholden/Documents/GitHub/DJC-Theme/page-firststeps.php",
+		"/Users/jholden/Documents/SmarterNetworker/Assets/custom.css",
+		"/Users/jholden/Documents/GitHub/DJC-Theme/page-team.php",
+		"/Users/jholden/Documents/Site/Dev Site/wp-content/themes/dj/page-team.php",
+		"/Users/jholden/Documents/Site/Dev Site/wp-content/themes/dj/scss/_globals.scss",
+		"/Users/jholden/Documents/Site/Dev Site/wp-content/themes/dj/scss/_templates.scss",
+		"/Users/jholden/Documents/Site/Dev Site/wp-content/themes/dj/scss/_vendor.scss",
+		"/Users/jholden/Documents/Site/Dev Site/wp-content/themes/dj/scss/_variables.scss",
+		"/Users/jholden/Documents/Site/Dev Site/wp-content/themes/dj/scss/style.scss",
+		"/Users/jholden/Documents/Site/Dev Site/wp-content/themes/dj/scss/style.css",
+		"/Users/jholden/Documents/Site/Dev Site/wp-content/themes/dj/footer.php",
+		"/Applications/MAMP/bin/php/php7.2.7/conf/php.ini",
+		"/Users/jholden/Documents/Site/ES page source.html",
+		"/Users/jholden/Documents/Site/Dev Site/wp-config.php",
+		"/Users/jholden/Documents/30daybootcamp.txt",
+		"/Users/jholden/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/DJC Sandbox"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 108.0
+	},
+	"pinned_build_system": "",
+	"project": "clone-name-tags.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

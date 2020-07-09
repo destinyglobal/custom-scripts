@@ -1,0 +1,92 @@
+<script>
+/*********************************
+ ****      Sticky Menu       ***** 
+ ********************************/
+
+// Desktop Menu Settings
+
+$(function () {
+  $('[data-title*="cf-stories-button"]').on('click', function () {
+    scrollToTop('[data-title*="cf-stories-section"]');
+    return false;
+  });
+  $('[data-title*="cf-deets-button"]').on('click', function () {
+    scrollToTop('[data-title*="cf-deets-section"]');
+    return false;
+  });
+  $('[data-title*="cf-order-button"]').on('click', function () {
+    scrollToTop('[data-title*="cf-order-section"]');
+    return false;
+  });
+  function scrollToTop(cfptSelector) {
+    $('html, body').animate({
+      scrollTop: ($(cfptSelector).offset().top) -42
+    }, 500);
+  }
+});
+
+// Mobile Menu Settings
+
+$(function () {
+  $('[data-title*="cf-open-menu-button"]').on('click', function () {
+    $('[data-title*="cf-mobile-menu-row"]').show();
+    $('[data-title*="cf-close-menu-button"]').show();
+    $('[data-title*="cf-open-menu-button"]').hide();
+    return false;
+  });
+  $('[data-title*="cf-close-menu-button"]').on('click', function () {
+    $('[data-title*="cf-mobile-menu-row"]').hide();
+    $('[data-title*="cf-close-menu-button"]').hide();
+    $('[data-title*="cf-open-menu-button"]').show();
+    return false;
+  });
+  $('[data-title*="cf-mobile-stories-button"]').on('click', function () {
+    $('[data-title*="cf-mobile-menu-row"]').hide();
+    $('[data-title*="cf-close-menu-button"]').hide();
+    $('[data-title*="cf-open-menu-button"]').show();
+    scrollToTop('[data-title*="cf-stories-section"]');
+    return false;
+  });
+  $('[data-title*="cf-mobile-deets-button"]').on('click', function () {
+    $('[data-title*="cf-mobile-menu-row"]').hide();
+    $('[data-title*="cf-close-menu-button"]').hide();
+    $('[data-title*="cf-open-menu-button"]').show();
+    scrollToTop('[data-title*="cf-deets-section"]');
+    return false;
+  });
+  $('[data-title*="cf-mobile-order-button"]').on('click', function () {
+    $('[data-title*="cf-mobile-menu-row"]').hide();
+    $('[data-title*="cf-close-menu-button"]').hide();
+    $('[data-title*="cf-open-menu-button"]').show();
+    scrollToTop('[data-title*="cf-order-section"]');
+    return false;
+  });
+  function scrollToTop(cfptSelector) {
+    $('html, body').animate({
+      scrollTop: ($(cfptSelector).offset().top)
+    }, 500);
+  }
+});
+
+
+</script> 
+<style>
+.col-md-3 {
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+}
+
+.elBTN_b_1 {
+  border: none !important;
+}
+
+#tmp_button-81941 > a {
+    border: 1px solid rgba(0,146,213,1) !important;
+    box-shadow: none !important;
+}
+
+[data-title='cf-mobile-menu-section'] {
+    position: relative;
+    z-index: 1;
+}
+</style>
