@@ -1,4 +1,4 @@
-function(addCopyrightDate) {
+function addCopyrightDate {
 	$('[data-title*="copyright"]').each(function() {
 		var source = $(this).html();
 		var thisYear = new Date().getFullYear();
